@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Horraira
 - 👀 I’m interested in Python Django and React
-- 🌱 I’m currently learning Celery and Docker
+- 🌱 I’m currently learning Agentic AI development
 - 💞️ I’m looking to collaborate on any Python development task
 - 📫 How to reach me - abuhorraira.sohan@gmail.com
 
